@@ -1,0 +1,10 @@
+package p423;
+
+public class NumberForExceptionExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
