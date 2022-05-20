@@ -17,6 +17,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\homework\gwaje_1"/>
 			<item value="D:\BankVer12"/>
 			<item value="D:\java_data\POSproject"/>
 			<item value="D:\java_data\test"/>
