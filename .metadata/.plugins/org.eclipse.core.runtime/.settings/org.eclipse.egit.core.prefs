@@ -1,3 +1,4 @@
-GitRepositoriesView.GitDirectories=D\:\\homework\\.git;D\:\\git_data\\java-2020-academy-sslibrary\\.git;D\:\\java_data\\.git;
-GitRepositoriesView.GitDirectories.relative=D\:\\homework\\.git;D\:\\git_data\\java-2020-academy-sslibrary\\.git;.git;
+GitRepositoriesView.GitDirectories=D\:\\homework\\.git;C\:\\Users\\ez220408\\Desktop\\Project_LibraryExample (2)\\.git;D\:\\git_data\\java-2020-academy-sslibrary\\.git;D\:\\java_data\\.git;C\:\\Users\\ez220408\\Desktop\\Project_LibraryExample\\.git;C\:\\Users\\ez220408\\Desktop\\Project_Library_\uB300\uCD9C\uB0A0\uC9DC\uB098\uC624\uAE30\\.git;
+GitRepositoriesView.GitDirectories.relative=D\:\\homework\\.git;C\:\\Users\\ez220408\\Desktop\\Project_LibraryExample (2)\\.git;D\:\\git_data\\java-2020-academy-sslibrary\\.git;.git;C\:\\Users\\ez220408\\Desktop\\Project_LibraryExample\\.git;C\:\\Users\\ez220408\\Desktop\\Project_Library_\uB300\uCD9C\uB0A0\uC9DC\uB098\uC624\uAE30\\.git;
+core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
